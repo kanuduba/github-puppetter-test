@@ -1,1 +1,1 @@
-Fixed typos in the README file.
+Updated the dependencies in package.json.
