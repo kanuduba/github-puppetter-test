@@ -1,2 +1,1 @@
-## New Section
-This is a new section added to the README.
+Fixed typos in the README file.
